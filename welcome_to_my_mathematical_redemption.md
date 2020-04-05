@@ -54,11 +54,18 @@ Well, you have my permission. There are no more gate keepers. Whatever voice you
 
 ## Making a PACT
 
-Once the gate keepers are dead, the way is clear. To start the journey you need clarity and commitment. The standard approach in self-improvement circles is to set a goal. A SMART goal. That's an acronym for Specific, Measurable, Achievable, Relevant and Timely.
+Once the gate keepers are gone, the way is clear. To start the journey I need clarity and commitment. The standard approach in self-improvement circles is to set a goal. A SMART goal. That's an acronym for Specific, Measurable, Achievable, Relevant and Timely.
 
-However, learning math doesn't fit the [SMART]() framework. It's impossible to know how long it will take. Maybe it's not relevant to your current job, but something that you do in your spare time? SMART goals focus on outcomes, but what we need are outputs.
+However, learning math doesn't fit the [SMART](https://en.wikipedia.org/wiki/SMART_criteria) framework. It's impossible to know how long it will take. What if it's not relevant to my current job, but something that I do in my spare time?
 
-To create a goal that relies on continuous growth rather than specific achievements, it's better to make a [PACT](https://nesslabs.com/smart-goals-pact). PACT is an acronym for purposeful, actionable, continuous and trackable.
+SMART goals focus on outcomes, but what I need are outputs.
+
+To create a goal that relies on continuous growth rather than specific achievements, it's better to make a [PACT](https://nesslabs.com/smart-goals-pact). PACT is an acronym for:
+
+- Purposeful
+- Actionable
+- Continuous
+- Trackable.
 
 For a goal to be **purposeful**, it doesn't have to be relevant right now, but it has to be meaningful in the long-term. It's easier to stick with it if you care about learning math.
 
@@ -70,13 +77,15 @@ Measuring progress can be a double-edged sword. A lot of stats can give the illu
 
 Learning math will not be easy. Learning anything of substance is not easy. It can be complex, abstract and boring. But it is worthwhile.
 
-The introduction to any book or course will likely be simple. It's designed to whet your appetite. But it will quickly progress to harder examples that you will struggle with or have to come back to, many times.
+The introduction to any book or course will likely be simple. It's designed to whet your appetite. But it will quickly progress to harder examples that you will struggle with or have to revisit, many times.
 
 Once you hit that point, THAT'S when you're really learning. When you start to feel that stress and desire to look at your phone and scroll through social media feeds, that's when you need to double down.
 
-Do not turn away from the discomfort, it's not a bad thing, it's a signal that you're on the right track. Accept it and keep going. Maybe you need to approach a problem in a different way, but DO NOT BACK DOWN or succumb to distraction. Use whatever productivity trick you want.
+Obstacles are not problems, they are there for training. You are either training yourself to run away from difficulty, or to face it.
 
-This feeling of discomfort during learning is a natural part of the process. Using your brain is expensive, in terms of bodily resources. Your body thinks it's better for survival to get food or social validation, and it's resisting. Don't quote me on that, I'm not a fucking evolutionary biologist, but that's what it feels like. :P
+Struggling to understand is a signal that you're on the right track. Embrace it and keep going. Maybe you need to approach a problem in a different way, but DO NOT BACK DOWN or succumb to distraction. Use whatever productivity trick works for you.
+
+This feeling of discomfort during learning is a natural part of the process. Using your brain is expensive, in terms of bodily resources. Your body thinks it's better for survival to get social validation, or a snack, so it resists. Don't quote me on that, I'm not a fucking evolutionary biologist, but that's what it feels like. :P
 
 Whenever I feel that discomfort, I get _excited_! Because that tells me that I've struck gold, I'm _learning_! My existing understanding is breaking down, and a stronger base is being built with the pieces.
 
@@ -106,7 +115,5 @@ You are, and you're amazing!
 
 ### TODO
 
-- Be more explicit about the goal of the thing
-- Be more detailed about what you are doing
 - Be more precise about how you will help people
 - Add links and resources
