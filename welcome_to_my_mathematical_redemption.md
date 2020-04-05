@@ -32,9 +32,7 @@ As a machine learning engineer, to make any kind of progress in research and exp
 
 It's helpful to view it through the lens of emotions. How do you _feel_ about your math skills and knowledge? I feel frustrated. I _know_ I can wrestle with this and win. I also feel a little ashamed.
 
-Contrast this with how you _want_ to feel about your knowledge and abilities. I want to feel confident, playful and curious again. I also want to feel proud of what I've learned and what I can do. Not because of competition with others, but because I have tackled a difficult problem and won.
-
-What's the end state you want to reach? How do you currently feel about your math chops and how do you want to feel on the other side?
+Contrast this with how you _want_ to feel about your knowledge and abilities. I want to feel confident, playful and curious again. I also want to feel proud of what I've learned and what I can do. Not because of competition with others, but because I have tackled a difficult problem and came out on top.
 
 ## Killing the Gatekeepers
 
