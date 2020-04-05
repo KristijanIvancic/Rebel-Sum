@@ -40,17 +40,17 @@ To move from how I feel to how I want to feel, I need to pass through some "gate
 
 Often, external gates become internal gates, and they have a keeper or guardian. There's a scene that I have witnessed in my childhood where a parent or teacher blocks a kid from learning math, and the kid internalizes this influence as something fundamentally lacking in themselves.
 
-Imagine a kid in your class who's struggling with math. They can't solve a particular exercise. Maybe they missed a key concept, or it just didn't click. Maybe they needed a different angle or a more visual explanation. Maybe the teacher is just shit at transferring knowledge.
+Imagine a kid in your class who's struggling with math. They can't solve a particular problem. Maybe they missed a key concept, or it just didn't click. Maybe they needed a different angle or a more visual explanation. Maybe the teacher is just shit at transferring knowledge.
 
-The teacher is doing the vulture thing, just walking around class and hovering over these little kids. And they reach our struggling student and tap them gently on the head and say "Maybe you should stick to humanities, math doesn't seem to be your strong suit." And the child forever internalizes "I can't do math. I'm not good enough."
+The teacher is doing the vulture thing, just walking around class and hovering over these little kids. They reach our struggling student and tap them gently on the head and say "Maybe you should stick to humanities, math doesn't seem to be your strong suit." And the child forever internalizes "I can't do math. I'm not good enough."
 
-It makes my blood boil. The teacher is entrusted with this precious forming mind and they shut it down. If you had a teacher like that, or anyone else that tried to keep math away from you, their words and voice live on in your mind, on a loop. They are your gatekeepers.
+It makes my blood boil. The teacher is entrusted with this precious forming mind and they shut it down. If you had a teacher like that, or anyone else that tried to keep math away from you, their words and voice live on in your head, stuck in a loop. They are your gatekeepers.
 
-Maybe you don't remember the person, or event, but it's there as a feeling. Any time you try to climb the math hill and start to struggle, it activates and discourages you. It's becase you think it's your fault. It isn't.
+Maybe you don't remember the person, or event, but it's there as a sense of dread. Any time you try to climb the math hill and start to struggle, it activates and discourages you. It's the thorny part of your mind there, and you don't want to go there. You think it's your fault. It isn't.
 
 Math is complex, and takes time. And no one ever allowed you to take your time and try to work through problems in as many ways you need to figure it out. You never had permission to struggle, fail and try again!
 
-Well, you have my permission. There are no more gate keepers. Whatever voice you have inside that's telling you that you're not smart enough or not good enough, it's time to accept it and then move past it.
+Well, you have my permission. There are no more gate keepers. Whatever voice you have inside that's telling you that you're not smart enough or not good enough, even if it's your own, acknowledge it and move on.
 
 ## Making a PACT
 
