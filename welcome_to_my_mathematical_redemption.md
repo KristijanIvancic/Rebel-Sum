@@ -16,8 +16,6 @@ I left my math intuition behind, and I regret it deeply. I wasted so much time a
 
 For this purpose, I am going to pretend to go through an undergrad degree in pure math. I want to think like a mathematician. I will read books, watch courses and solve problems. I will write about my journey and invite others to join me in study groups.
 
-If you feel like you have given up on your math mojo, no matter how early in life, you can get it back! Join me, all you ex-lazy, regret-riddled students and not-good-at-math kids, I want to hear your stories!
-
 ## But Why, You Nerd?
 
 I work as a machine learning (ML) engineer. I use math every day to teach machines how to do things that are easy for humans, but hard for computers. If I want to thrive and excel in my work, I have to read scientific papers on ML.
@@ -113,4 +111,10 @@ To borrow [a lesson from James Clear](https://jamesclear.com/identity-based-habi
 
 The small win can be reading a chapter of a book or solving a difficult equation. It could also be about connecting to others who are on the same journey. Set incremental goals for yourself and reach them. They will accumulate and you will look back and say "Damn, I guess I AM a mathematician!"
 
-You are, and you're amazing!
+## Join Me
+
+If you feel like you have given up on your math mojo, no matter how early in life, you can get it back! Join me, all you lazy, regret-riddled students and not-good-at-math kids, I want to hear your stories!
+
+Reply to this email or DM me on [Twitter](https://twitter.com/kristijan_ivanc). And, of course, if you want to follow this journey and join the study groups, hit subscribed.
+
+Looking forward to talking with you, fellow nerds!
