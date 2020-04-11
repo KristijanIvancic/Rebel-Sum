@@ -99,7 +99,7 @@ Having strong reserves of drive and discipline is important, but relying solely 
 
 The biggest drawback of being a self-learner in pure math is the lack of access to professors, TAs and peers. Study groups are one of the best ways to learn. It's not just the access to solutions, but also bouncing ideas off each other that can trigger a flash of understanding.
 
-This is why I'm here. I will be your study buddy. I will be sending out newsletters as I'm hiking towards the various peaks of mathematical knowledge. Reply to me at any time! I'll also be holding online study groups that you can attend and nerd out with others.
+This is why I'm here. I will be your study buddy. I will send out newsletters as I'm hiking towards the various peaks of mathematical knowledge. I'll also be holding online study groups that you can attend and nerd out with others.
 
 ## You ARE a Mathematician
 
@@ -109,7 +109,7 @@ If you write code, you are a developer. Equally, if you do math, you are a mathe
 
 To borrow [a lesson from James Clear](https://jamesclear.com/identity-based-habits), you must build a new identity for yourself, one that incorporates rocking math. And you do it by choosing who you want to be (the coolest fucking mathematician alive) and then **proving** it to yourself with small wins.
 
-The small win can be reading a chapter of a book or solving a difficult equation. It could also be about connecting to others who are on the same journey. Set incremental goals for yourself and reach them. They will accumulate and you will look back and say "Damn, I guess I AM a mathematician!"
+A small win can be reading a chapter of a book or solving a difficult equation. It could also be about connecting to others who are on the same journey. Set incremental goals for yourself and reach them. They will accumulate and you will look back and say "Damn, I guess I AM a mathematician!"
 
 ## Join Me
 
