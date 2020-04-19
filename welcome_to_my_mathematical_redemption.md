@@ -14,9 +14,9 @@ Since math _used to_ come easily to me, I couldn't handle it being a struggle an
 
 I left my math intuition behind and I regret it deeply. I wasted so much time and _potential_! Thankfully, I don't need the University anymore. All the resources I could ever need are available online. And I am determined to redeem myself as a mathematician.
 
-So, I'm going to pretend to go through an undergrad degree in pure math. I want to think like a mathematician. I'll read books, watch courses and solve problems. As I go through this journey, I'm gonna take you along. You get to watch me be stupid and learn pure math from scratch!
+So, I'm going to pretend to go through an undergrad degree in pure math. I want to think like a mathematician. I'll read books, watch courses and solve problems. As I go through this journey, I'm gonna take you along.
 
-If you've ever read [Wait But Why](https://waitbutwhy.com/), that's the aesthetic I'm going for. I wanna be the Tim Urban of math.
+If you've ever read [Wait But Why](https://waitbutwhy.com/), that's the aesthetic I'm aiming for. I wanna be the Tim Urban of math.
 
 ## But Why, You Nerd?
 
