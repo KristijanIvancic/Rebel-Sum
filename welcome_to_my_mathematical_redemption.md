@@ -54,11 +54,11 @@ Well, you have my permission. There are no more gatekeepers. Whatever voice you 
 
 ## Making a PACT
 
-Once I passed the gatekeepers, the way is clear. To start the journey I need clarity and commitment. The standard approach in self-improvement circles is to set a goal. A **SMART** goal. That's an acronym for Specific, Measurable, Achievable, Relevant and Timely.
+Once I leave the gatekeepers in the dust, it's time to set goals, right? Smart people set [SMART](https://en.wikipedia.org/wiki/SMART_criteria) goals; everyone knows that!
 
-However, learning math doesn't fit the [SMART](https://en.wikipedia.org/wiki/SMART_criteria) framework. It's impossible to know how long it will take. What if it's not relevant to my current job, but something that I do in my spare time?
+But, I _suck_ at SMART goals. Outside of test-taking, math doesn't fit the framework. It's impossible to know how long it will take. What if it's not relevant to my current job, but something that I do in my spare time?
 
-SMART goals focus on outcomes, but what I need are outputs.
+SMART goals focus on outcomes, but what I need are _outputs_.
 
 To create a goal that relies on continuous growth rather than specific achievements, it's better to make a [PACT](https://nesslabs.com/smart-goals-pact). **PACT** is an acronym for:
 
@@ -67,11 +67,11 @@ To create a goal that relies on continuous growth rather than specific achieveme
 - Continuous
 - Trackable
 
-For a goal to be **purposeful**, it doesn't have to be relevant right now, but it has to be meaningful in the long-term. It's going to be easier to stick with it if you _care_ about learning math.
+If you're masochistic enough to want to learn theoretical math, it needs to be **purposeful**. Being a math god isn't crucial to me right this instant, but it's meaningful in the long-term. It's going to be easier to stick with because I _care_ about learning math.
 
-**Actionable** goals have outputs you can control daily, switching focus from the far future to something within reach. If I can go through one chapter of a math book in a day, or solve a problem set, I'll go to bed feeling motivated to do the same thing tomorrow. Repeating that process **continuously** will bring me to my long-term ambition.
+**Actionable** just means something I control daily, instead of looking far into the future. If I can go through one chapter of a math book in a day, or solve a problem set, I'll go to bed feeling motivated to do the same thing tomorrow. Repeating that process **continuously** will bring me to my long-term ambition.
 
-Measuring progress can be a double-edged sword. A lot of stats can give the illusion of progress or actively discourage you. But for ensuring daily effort, the simplicity of **tracking** progress works better. A "yes" or "no" does the job. Have you read any theory today? Have you solved a problem set? Put a check in a box and move on.
+Measuring progress can be a double-edged sword. Stats give me the illusion of progress. So I opt for the simplicity of **tracking** progress with a "yes" or "no". Did you eat your vegetables today? Have you read any theory today? Have you solved a problem set? Put a check in a box and move on.
 
 ## The Way is Hard
 
