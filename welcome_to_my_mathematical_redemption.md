@@ -20,15 +20,13 @@ If you've ever read [Wait But Why](https://waitbutwhy.com/), that's the aestheti
 
 ## But Why, You Nerd?
 
-I work as a machine learning (ML) engineer. I use math every day to teach machines how to do things that are easy for humans but hard for computers. If I want to thrive and excel in my work, I have to read scientific papers on ML.
+I work as a machine learning (ML) engineer. I use math every day to teach machines how to do things that are easy for humans but hard for computers. If I want to thrive and excel in my work, I have to read lots of scientific papers.
 
-Implementing the insights from these papers is applied math, following standard steps. Not easy, but doable. What's out of reach though, is how the researchers arrived at those insights. If it's written without a lot of mystery and jargon, I can follow their logic.
-
-However, I often can't predict what's going to happen if I stack multiple insights on the same ML model. And I struggle to develop intuition and generate insights on my own. That's why I want to add theoretical math to my utility belt.
+If the papers are written without a lot of mystery and jargon, I can follow their logic. Applied math is not a problem. What's out of reach though, is how the researchers _arrived_ at those insights. I struggle to develop intuition and generate insights of my own. That's why I want to add theoretical math to my utility belt.
 
 I'm learning math because I'm curious and because I'm irritated. I get upset when I don't understand things. Working with math today feels like cheating. Like I found a spellbook but don't really know magic, I'm just playing pretend.
 
-As a machine learning engineer, to make any kind of progress in research and experimentation, I need the ability to see through the jargon and really understand it.
+As a machine learning engineer, to make any kind of progress in research and experimentation, I need the ability to see through the jargon and _understand_ on a deep, intuitive level.
 
 Why do **you** want it?
 
@@ -81,7 +79,7 @@ Learning math will not be easy. Learning anything of substance is not easy. It c
 
 The introduction to any book or course will likely be simple. It's designed to whet your appetite. But it will quickly progress to harder examples that you will struggle with or have to revisit, many times.
 
-Once you hit that point, _that's_ when you're really learning. When you start to feel that stress and desire to look at your phone and scroll through social media feeds, that's when you need to double down.
+Once you hit that point, _that's_ when you're really learning. When you start to feel that stress and desire to look at your phone and scroll through social media feeds, you need to double down.
 
 Obstacles are not problems, they are here for training. You are either training yourself to run away from difficulty or to face it.
 
