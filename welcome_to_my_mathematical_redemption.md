@@ -8,17 +8,17 @@ At some point, things stopped clicking. It was subtle. Maybe I didn't catch all 
 
 Luckily, you don't need "clicks" to pass standardized tests. Tests are based on solving problems. And problems always have a specific set of steps to reach a solution. As long as I knew the steps, I could stay afloat.
 
-But there was discomfort, guilt, and shame that became my regular companions. I wasn't _actually_ doing math anymore, I was just pretending. What used to be positive friction and joy of overcoming challenges, became a thorny part of my brain where I refused to go.
+But discomfort, guilt, and shame soon became my regular companions. I wasn't _actually_ doing math anymore, I was just pretending. What used to be positive friction and the joy of overcoming challenges became a thorny part of my brain where I refused to go.
 
-Since math _used to_ come easily to me, I couldn't handle it being a struggle and having to work for my insights. By the time I hit Uni, my work ethic was waaay behind my peers and I got distracted by the access to the amazing student social life.
+Since math _used to_ come easily to me, I couldn't handle it being a struggle and having to work for my insights. By the time I hit Uni, my work ethic was waaay lower than my peers and I got distracted by the amazing student social life.
 
-I left my math intuition behind, and I regret it deeply. I wasted so much time and _potential_! But I don't need the University anymore. All the resources I could ever need are available online. And I am determined to redeem myself as a mathematician.
+I left my math intuition behind and I regret it deeply. I wasted so much time and _potential_! Thankfully, I don't need the University anymore. All the resources I could ever need are available online. And I am determined to redeem myself as a mathematician.
 
 For this purpose, I am going to pretend to go through an undergrad degree in pure math. I want to think like a mathematician. I will read books, watch courses and solve problems. I will write about my journey and invite others to join me in study groups.
 
 ## But Why, You Nerd?
 
-I work as a machine learning (ML) engineer. I use math every day to teach machines how to do things that are easy for humans, but hard for computers. If I want to thrive and excel in my work, I have to read scientific papers on ML.
+I work as a machine learning (ML) engineer. I use math every day to teach machines how to do things that are easy for humans but hard for computers. If I want to thrive and excel in my work, I have to read scientific papers on ML.
 
 Implementing the insights from these papers is applied math, following standard steps. Not easy, but doable. What's out of reach though, is how the researchers arrived at those insights. If it's written without a lot of mystery and jargon, I can follow their logic.
 
@@ -28,17 +28,17 @@ I'm learning math because I'm curious and because I'm irritated. I get upset whe
 
 As a machine learning engineer, to make any kind of progress in research and experimentation, I need the ability to see through the jargon and really understand it.
 
-And why do **you** want it?
+Why do **you** want it?
 
 It's helpful to view it through the lens of emotions. How do you _feel_ about your math skills and knowledge? I feel frustrated. I _know_ I can wrestle with this and win. I also feel ashamed of how my understanding atrophied.
 
-Contrast this with how you _want_ to feel about your knowledge and abilities. I want to feel confident, playful and curious again. I also want to feel proud of what I've learned and what I can do. Not because of competition with others, but because I have tackled a difficult problem and came out on top.
+Contrast this with how you _want_ to feel about your knowledge and abilities. I want to feel confident, playful and curious again. I also want to feel proud of what I've learned and what I can do. Not because of competition with others, but because I've tackled a difficult problem and came out on top.
 
 ## Killing the Gatekeepers
 
-To move from how I feel to how I want to feel, I need to pass through some "gates". The gates are external and internal obstacles to reaching my goals. Internal ones are fear, lack of willpower and anything else that causes reluctance to even start, let alone keep going. External ones are time and access to people and resources.
+To move from how I feel to how I want to feel, I need to pass through some gates. The gates are external and internal obstacles to reaching my goals. Internal ones are fear, lack of willpower and anything else that causes reluctance to even start, let alone keep going. External ones are time and access to people and resources.
 
-Each gate has a keeper or guardian, represented by an actual person in your life, or an imaginary voice in your head. There's a scene that I have witnessed in my childhood where a parent or teacher blocks a kid from learning math, and the kid internalizes this influence as something fundamentally lacking in themselves.
+Each gate has a guardian, represented by an actual person in your life, or an imaginary voice in your head. There's a scene I've witnessed in my childhood where a parent or teacher blocks a kid from learning math, and the kid internalizes this influence as something fundamentally lacking in themselves.
 
 Imagine a kid in your class who's struggling with math. They can't solve a particular problem. Maybe they missed a key concept, or it just didn't click. Maybe they needed a different angle or a more visual explanation. Maybe the teacher is not interested or just shit at transferring knowledge.
 
@@ -46,11 +46,11 @@ The teacher reaches our struggling student and taps them gently on the head and 
 
 It's enough to make my blood boil. The teacher is entrusted with this precious forming mind and they casually shut it down. If you had a teacher like that or anyone else that tried to keep math away from you, their words and voice live on in your head, stuck in a loop. They are your gatekeepers.
 
-Maybe you don't remember the person or event, but it's there as a sense of dread. Any time you try to climb the math hill and start to struggle, it activates and discourages you. It's the thorny part of your mind and you don't want to go there. You think it's your fault, but it's not.
+Maybe you don't remember the person or event but it's there as a sense of dread. Any time you try to climb the math hill and start to struggle, it activates and discourages you. It's the thorny part of your mind and you don't want to go there. You think it's your fault, but it's not.
 
-Math is complex and takes time. And no one ever allowed you to take your time and try to work through problems in as many ways you need to figure it out. You never had permission to struggle, fail and try again!
+Math is complex and takes time. No one ever allowed you to take your time and try to work through problems in as many ways you need to figure it out. You never had permission to struggle, fail and try again!
 
-Well, you have my permission. There are no more gatekeepers. Whatever voice you have inside that's telling you that you're not smart enough or not good enough, even if it's your own, acknowledge it, accept it but keep going.
+Well, you have my permission. There are no more gatekeepers. Whatever voice you have inside that's telling you that you're not smart enough or not good enough, even if it's your own, acknowledge it, accept it but _keep going_.
 
 ## Making a PACT
 
